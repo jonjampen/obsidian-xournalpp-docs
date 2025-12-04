@@ -93,7 +93,7 @@ const config = {
                         type: "docSidebar",
                         sidebarId: "tutorialSidebar",
                         position: "left",
-                        label: "Tutorial",
+                        label: "Docs",
                     },
                     { to: "/blog", label: "Blog", position: "left" },
                     {
@@ -107,11 +107,15 @@ const config = {
                 style: "dark",
                 links: [
                     {
-                        title: "Docs",
+                        title: "Plugin",
                         items: [
                             {
-                                label: "Tutorial",
-                                to: "/docs/intro",
+                                label: "Plugin Link",
+                                to: "https://obsidian.md/plugins?id=xounralpp",
+                            },
+                            {
+                                label: "Documentation",
+                                to: "/docs/Home",
                             },
                         ],
                     },
@@ -132,17 +136,13 @@ const config = {
                         title: "More",
                         items: [
                             {
-                                label: "Blog",
-                                to: "/blog",
-                            },
-                            {
                                 label: "GitHub",
-                                href: "https://github.com/facebook/docusaurus",
+                                href: "https://github.com/jonjampen/obsidian-xournalpp",
                             },
                         ],
                     },
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} Obsidian Xournal++ Plugin, built by <a href="https://jonjampen.ch" target="_blank">Jon Jampen</a> and many awesome contributors.`,
+                copyright: `Copyright © ${new Date().getFullYear()} Obsidian Xournal++ Plugin, built by <a href="https://jonjampen.ch" target="_blank">Jon Jampen</a> and awesome contributors.`,
             },
             prism: {
                 theme: prismThemes.github,
