@@ -86,7 +86,7 @@ const config = {
                 title: "Obsidian Xournal++",
                 logo: {
                     alt: "Obsidian Xournal++ Logo",
-                    src: "img/logo.svg",
+                    src: "img/logo.png",
                 },
                 items: [
                     {
