@@ -15,13 +15,9 @@ This plugin offers several options to create a new Xournal++ file from within Ob
 1. File Explorer: Open the file explorer and click on the ![pen tool](https://github.com/user-attachments/assets/7560dc83-2c38-44a4-9f8f-276b66c693c8) icon.
 1. Folder Menu: Right-click on a folder in the file explorer and click on `Create new Xournal++`.
 1. Command: Open your command palette and type `Xournal++: Create a new note` and press enter.
-1. Ribbon Icon: Click on the ![pen tool](https://github.com/user-attachments/assets/7560dc83-2c38-44a4-9f8f-276b66c693c8) icon in the ribbon side bar.
+1. Ribbon Icon: Click on the ![pen tool](https://github.com/user-attachments/assets/7560dc83-2c38-44a4-9f8f-276b66c693c8) icon in the ribbon side bar. After that, a modal opens where you need to select the folder, where the new file will be saved to. By default, your [Default path](Settings#xournal-installation-path) is selected, so you can just press enter to select that. If you want to select another folder, start typing, use the arrow keys to move the selection up or down, and press `tab` to auto-complete the selected folder. Then press `enter` to select the active folder.
 
-After that, a modal opens where you need to select the folder, where the new file will be saved to. By default, your [Default path](settings#xournal-installation-path) is selected, so you can just press enter to select that. If you want to select another folder, start typing, use the arrow keys to move the selection up or down, and press `tab` to auto-complete the selected folder. Then press `enter` to select the active folder.
-
-Then a new modal opens, asking for the file name. Enter it and press `enter`.
-
-Note that if you have the setting `Auto export Xournal++ files` disabled, you will not be able to see the newly created Xournal++ file in the Obsidian file explorer. This is because Obsidian hides `.xopp` files (and most other file types) by default. However, the file is still created and can be linked to. If you prefer to view the Xournal++ file in Obsidian, enabling the auto export setting is recommended (read more: [Settings](settings#auto-export-xournal-files)).
+Then a new modal opens, asking for the file name. Enter it and press `enter`. Note that if you have the setting `Auto export Xournal++ files` disabled, you will not be able to see the newly created Xournal++ file in the Obsidian file explorer. This is because Obsidian hides `.xopp` files (and most other file types) by default. However, the file is still created and can be linked to. If you prefer to view the Xournal++ file in Obsidian, enabling the auto export setting is recommended (read more: [Settings](Settings#auto-export-xournal-files)).
 
 ## Opening a file in Xournal++ from Obsidian
 

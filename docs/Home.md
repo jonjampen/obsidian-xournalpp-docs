@@ -21,9 +21,9 @@ Join our [Discord](https://discord.gg/VngwVHJQg5) to stay up to date, ask questi
 To use the Xournal++ plugin for Obsidian, follow these steps:
 
 1. Install [Xournal++](https://xournalpp.github.io) and [Obsidian](https://obsidian.md/download)
-1. [Install the plugin](installation)
-1. [Customize the plugin settings](settings) (optional)
-1. Read the [usage guide](usage)
+1. [Install the plugin](Installation)
+1. [Customize the plugin settings](Settings) (optional)
+1. Read the [usage guide](Usage)
 1. See the [FAQs](Frequently-Asked-Questions)
 
 ## Development

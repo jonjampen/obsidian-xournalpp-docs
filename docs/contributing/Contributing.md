@@ -2,7 +2,7 @@
 
 Your feedback, contributions, and feature requests are valuable to the development of the plugin. Please submit any issues or suggestions via the [GitHub repository](https://github.com/jonjampen/obsidian-xournalpp/issues). You can also join our [Discord](https://discord.gg/VngwVHJQg5) to chat with me, ask questions, or send suggestions.
 
-Contributions in any form are welcome. To contribute, create a pull request and feel free to reach out to me at any time. If you'd like to beta test the plugin, follow the instructions [here](Beta-Testing).
+Contributions in any form are welcome. To contribute, create a pull request and feel free to reach out to me at any time. If you'd like to beta test the plugin, follow the instructions [here](../Beta-Testing).
 
 ### Local development
 
