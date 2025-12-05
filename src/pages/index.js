@@ -17,7 +17,7 @@ function HomepageHeader() {
                 </Heading>
                 <p className="hero__subtitle">{siteConfig.tagline}</p>
                 <div className={styles.buttons}>
-                    <Link className="button button--secondary button--lg" to="https://obsidian.md/plugins?id=xounralpp">
+                    <Link className="button button--secondary button--lg" to="/installation">
                         Install Plugin
                     </Link>
                     <Link className="button button--secondary button--lg" to="/docs/Home">
