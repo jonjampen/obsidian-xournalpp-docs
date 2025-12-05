@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocs=globalThis.webpackChunkdocs||[]).push([[123],{3408:s=>{s.exports=JSON.parse('{"tags":[{"label":"welcome","permalink":"/obsidian-xournalpp-docs/blog/tags/welcome","count":1}]}')}}]);

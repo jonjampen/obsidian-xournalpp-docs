@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jonjampen.github.io/obsidian-xournalpp-docs/blog</id>
+    <title>Obsidian Xournal++ Plugin Blog</title>
+    <updated>2025-12-05T09:25:26.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jonjampen.github.io/obsidian-xournalpp-docs/blog"/>
+    <subtitle>Obsidian Xournal++ Plugin Blog</subtitle>
+    <icon>https://jonjampen.github.io/obsidian-xournalpp-docs/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://jonjampen.github.io/obsidian-xournalpp-docs/blog/welcome</id>
+        <link href="https://jonjampen.github.io/obsidian-xournalpp-docs/blog/welcome"/>
+        <updated>2025-12-05T09:25:26.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Obsidian Xournal++ Plugin blog!]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the Obsidian Xournal++ Plugin blog!</p>
+<p>Stay tuned for updates and news.</p>]]></content>
+        <category label="welcome" term="welcome"/>
+    </entry>
+</feed>

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocs=globalThis.webpackChunkdocs||[]).push([[903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/obsidian-xournalpp-docs/blog","blogTitle":"Blog","authorsListPath":"/obsidian-xournalpp-docs/blog/authors"}')}}]);

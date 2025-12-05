@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocs=globalThis.webpackChunkdocs||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/obsidian-xournalpp-docs/blog/welcome","unlisted":false,"date":"2025-12-05T09:25:26.000Z"}]}')}}]);
